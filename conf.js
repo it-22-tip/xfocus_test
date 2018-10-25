@@ -4,6 +4,9 @@ exports.config = {
     'specs/pegawai.spec.js'
   ],
   params: {
-    baseUrl: 'http://xfocus.id.localhost',
+    base_url: 'http://xfocus.id.localhost',
+    cl_no: '111',
+    username: 'TRIAL',
+    password: 'TRIAL',
   }
 };

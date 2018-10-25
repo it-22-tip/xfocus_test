@@ -13,5 +13,8 @@
   "dependencies": {
     "protractor": "^5.4.1",
     "protractor-api-resource": "^1.0.3"
+  },
+  "devDependencies": {
+    "@hetznercloud/protractor-test-helper": "^1.1.0"
   }
 }
